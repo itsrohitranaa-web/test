@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /contact.php
+Disallow: /apply.php
+
+Sitemap: https://ovoye.com/sitemap.xml

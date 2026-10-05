@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /contact.php
+Disallow: /apply.php
+
+User-agent: *
+Allow: /
+Disallow: /contact.php
+Disallow: /apply.php
+
+Sitemap: https://ovoye.com/sitemap.xml
